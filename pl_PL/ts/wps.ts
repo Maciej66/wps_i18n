@@ -137,7 +137,7 @@
     </message>
     <message>
         <source>Cyan</source>
-        <translation type="unfinished"></translation>
+        <translation>Błękitny</translation>
     </message>
     <message>
         <source>Aqua</source>
@@ -153,7 +153,7 @@
     </message>
     <message>
         <source>Magenta</source>
-        <translation type="unfinished"></translation>
+        <translation>Amarantowy</translation>
     </message>
     <message>
         <source>Pink</source>
@@ -185,7 +185,7 @@
     </message>
     <message>
         <source>Deep green</source>
-        <translation type="unfinished"></translation>
+        <translation>Ciemnozielony</translation>
     </message>
     <message>
         <source>Emerald</source>
@@ -256,15 +256,15 @@
     </message>
     <message>
         <source>&amp;Lowercase</source>
-        <translation type="unfinished"></translation>
+        <translation>małe litery</translation>
     </message>
     <message>
         <source>&amp;Full-width</source>
-        <translation type="unfinished"></translation>
+        <translation>Pełna szerokość</translation>
     </message>
     <message>
         <source>&amp;Uppercase</source>
-        <translation type="unfinished"></translation>
+        <translation>WIELKIE LITERY</translation>
     </message>
     <message>
         <source>&amp;Katakana</source>
@@ -333,7 +333,7 @@
     </message>
     <message>
         <source>&amp;Spacing:</source>
-        <translation type="unfinished"></translation>
+        <translation>Od&amp;stępy</translation>
     </message>
     <message>
         <source>1:</source>
@@ -348,31 +348,31 @@
     </message>
     <message>
         <source>Picture Position</source>
-        <translation type="unfinished"></translation>
+        <translation>Położenie obrazu</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Poziome</translation>
     </message>
     <message>
         <source>&amp;Alignment</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyrówn&amp;anie</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Do lewej</translation>
     </message>
     <message>
         <source>Centered</source>
-        <translation type="unfinished"></translation>
+        <translation>Do środka</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Do prawej</translation>
     </message>
     <message>
         <source>Absolute &amp;position</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Położenie bezwzględne</translation>
     </message>
     <message>
         <source>pt, 2, -1596, 1596, 1</source>
@@ -380,15 +380,15 @@
     </message>
     <message>
         <source>&amp;relative to</source>
-        <translation type="unfinished"></translation>
+        <translation>w stosunku do</translation>
     </message>
     <message>
         <source>Margin</source>
-        <translation type="unfinished"></translation>
+        <translation>Margines</translation>
     </message>
     <message>
         <source>Page</source>
-        <translation type="unfinished">Strona</translation>
+        <translation>Strona</translation>
     </message>
     <message>
         <source>Column</source>
@@ -400,7 +400,7 @@
     </message>
     <message>
         <source>&amp;to the right of</source>
-        <translation type="unfinished"></translation>
+        <translation>z prawej s&amp;trony</translation>
     </message>
     <message>
         <source>Vertical</source>
@@ -436,7 +436,7 @@
     </message>
     <message>
         <source>Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Linia</translation>
     </message>
     <message>
         <source>r&amp;elative to</source>
@@ -448,11 +448,11 @@
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opcje</translation>
     </message>
     <message>
         <source>&amp;Move object with text</source>
-        <translation type="unfinished"></translation>
+        <translation>Przenieś obiekt z tekste&amp;m</translation>
     </message>
     <message>
         <source>Allow o&amp;verlap</source>
@@ -464,11 +464,11 @@
     </message>
     <message>
         <source>Text Wrapping</source>
-        <translation type="unfinished"></translation>
+        <translation>Zawijanie tekstu</translation>
     </message>
     <message>
         <source>Wrapping style</source>
-        <translation type="unfinished"></translation>
+        <translation>Styl zawijania</translation>
     </message>
     <message>
         <source>S&amp;quare</source>
@@ -500,7 +500,7 @@
     </message>
     <message>
         <source>Wrap text</source>
-        <translation type="unfinished"></translation>
+        <translation>Zawijanie tekstu</translation>
     </message>
     <message>
         <source>Both &amp;sides</source>
@@ -520,7 +520,7 @@
     </message>
     <message>
         <source>Distance from text</source>
-        <translation type="unfinished"></translation>
+        <translation>Odległość od tekstu</translation>
     </message>
     <message>
         <source>To&amp;p</source>
