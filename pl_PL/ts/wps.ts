@@ -1399,15 +1399,15 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>Wypełnienie</translation>
     </message>
     <message>
         <source>M&amp;ore Colors...</source>
-        <translation type="unfinished"></translation>
+        <translation>Wiecej kolorów...</translation>
     </message>
     <message>
         <source>Patterns</source>
-        <translation type="unfinished"></translation>
+        <translation>Wzory</translation>
     </message>
     <message>
         <source>St&amp;yle:</source>
@@ -1567,31 +1567,31 @@ use buttons to apply borders</source>
     <name>KxDlgBulletsNumbering</name>
     <message>
         <source>Bullets and Numbering</source>
-        <translation type="unfinished"></translation>
+        <translation>Punktory i numeracja</translation>
     </message>
     <message>
         <source>&amp;Bulleted</source>
-        <translation type="unfinished"></translation>
+        <translation>Punktowana</translation>
     </message>
     <message>
         <source>Cus&amp;tomize...</source>
-        <translation type="unfinished"></translation>
+        <translation>Dostosuj</translation>
     </message>
     <message>
         <source>&amp;Numbered</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Numerowana</translation>
     </message>
     <message>
         <source>List numbering</source>
-        <translation type="unfinished"></translation>
+        <translation>Lista numerowana</translation>
     </message>
     <message>
         <source>&amp;Restart numbering</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Rozpocznij numerowanie od nowa</translation>
     </message>
     <message>
         <source>&amp;Continue previous list</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontynuj poprzednią listę</translation>
     </message>
     <message>
         <source>O&amp;utline Numbered</source>
@@ -1607,11 +1607,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>List preview:</source>
-        <translation type="unfinished"></translation>
+        <translation>Podgląd listy:</translation>
     </message>
     <message>
         <source>None list</source>
-        <translation type="unfinished"></translation>
+        <translation>Brak listy</translation>
     </message>
     <message>
         <source>Appl&amp;y changes to:</source>
@@ -1627,7 +1627,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Selected text</source>
-        <translation type="unfinished">Zaznaczony tekst</translation>
+        <translation>Zaznaczony tekst</translation>
     </message>
 </context>
 <context>
@@ -1642,11 +1642,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Label:</source>
-        <translation type="unfinished"></translation>
+        <translation>Etykieta:</translation>
     </message>
     <message>
         <source>&amp;Position:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Położenie:</translation>
     </message>
     <message>
         <source>&amp;Exclude label from caption</source>
@@ -1700,19 +1700,19 @@ use buttons to apply borders</source>
     <name>KxDlgCellOption</name>
     <message>
         <source>Cell Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opcje komórki</translation>
     </message>
     <message>
         <source>Cell margins</source>
-        <translation type="unfinished"></translation>
+        <translation>Marginesy komórki</translation>
     </message>
     <message>
         <source>&amp;Same as the whole table</source>
-        <translation type="unfinished"></translation>
+        <translation>Takie &amp;same jak całej tabeli</translation>
     </message>
     <message>
         <source>&amp;Top:</source>
-        <translation type="unfinished"></translation>
+        <translation>Góra:</translation>
     </message>
     <message>
         <source>pt, -1, 0, 1584, 1</source>
@@ -1720,34 +1720,34 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Left:</source>
-        <translation type="unfinished"></translation>
+        <translation>Lewo</translation>
     </message>
     <message>
         <source>&amp;Bottom:</source>
-        <translation type="unfinished"></translation>
+        <translation>Dół</translation>
     </message>
     <message>
         <source>&amp;Right:</source>
-        <translation type="unfinished"></translation>
+        <translation>Prawo</translation>
     </message>
 </context>
 <context>
     <name>KxDlgCheckSpelling</name>
     <message>
         <source>Spelling</source>
-        <translation type="unfinished"></translation>
+        <translation>Pisownia</translation>
     </message>
     <message>
         <source>&amp;Paragraph:</source>
-        <translation type="unfinished"></translation>
+        <translation>Akapit:</translation>
     </message>
     <message>
         <source>The word is not in the dictionary</source>
-        <translation type="unfinished"></translation>
+        <translation>Słowa nie ma w słowniku</translation>
     </message>
     <message>
         <source>Change &amp;to:</source>
-        <translation type="unfinished"></translation>
+        <translation>Zmień na:</translation>
     </message>
     <message>
         <source>Suggestio&amp;ns:</source>
@@ -1755,43 +1755,43 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Change</source>
-        <translation type="unfinished"></translation>
+        <translation>Zmień</translation>
     </message>
     <message>
         <source>Change A&amp;ll</source>
-        <translation type="unfinished"></translation>
+        <translation>Zmień wszystkie</translation>
     </message>
     <message>
         <source>&amp;Ignore</source>
-        <translation type="unfinished"></translation>
+        <translation>Ignoruj</translation>
     </message>
     <message>
         <source>I&amp;gnore All</source>
-        <translation type="unfinished"></translation>
+        <translationI&amp;gnoruj wszystkie</translation>
     </message>
     <message>
         <source>&amp;Add to Dictionary</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj do słownika</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished">&amp;Usuń</translation>
+        <translation>&amp;Usuń</translation>
     </message>
     <message>
         <source>Cu&amp;stom Dictionaries...</source>
-        <translation type="unfinished"></translation>
+        <translation>Niestandardowe słowniki...</translation>
     </message>
     <message>
         <source>&amp;Options</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Opcje</translation>
     </message>
     <message>
         <source>&amp;Undo</source>
-        <translation type="unfinished"></translation>
+        <translation>Cofnij</translation>
     </message>
     <message>
         <source>&amp;Set Spellcheck Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustaw język &amp;sprawdzania pisowni</translation>
     </message>
 </context>
 <context>
@@ -1802,7 +1802,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Check box size</source>
-        <translation type="unfinished"></translation>
+        <translation>Rozmiar pola wyboru</translation>
     </message>
     <message>
         <source>&amp;Auto</source>
@@ -1818,7 +1818,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Default value</source>
-        <translation type="unfinished"></translation>
+        <translation>Wartość domyślna</translation>
     </message>
     <message>
         <source>Not chec&amp;ked</source>
@@ -1842,11 +1842,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Field settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustawienia pola</translation>
     </message>
     <message>
         <source>&amp;Bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>Zakładki</translation>
     </message>
     <message>
         <source>Check box e&amp;nabled</source>
@@ -1858,7 +1858,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Add Help &amp;Text...</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj tekst pomocy...</translation>
     </message>
 </context>
 <context>
@@ -1869,15 +1869,15 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Text (up to 6):</source>
-        <translation type="unfinished"></translation>
+        <translation> type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Font:</source>
-        <translation type="unfinished">&amp;Czcionka:</translation>
+        <translation>&amp;Czcionka:</translation>
     </message>
     <message>
         <source>&amp;Size:</source>
-        <translation type="unfinished">&amp;Rozmiar:</translation>
+        <translation>&amp;Rozmiar:</translation>
     </message>
     <message>
         <source>4</source>
@@ -1968,7 +1968,7 @@ use buttons to apply borders</source>
     <name>KxDlgContents</name>
     <message>
         <source>Contents</source>
-        <translation type="unfinished"></translation>
+        <translation>Zawartość</translation>
     </message>
     <message>
         <source>Table of &amp;Contents</source>
@@ -1980,7 +1980,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Brak</translation>
     </message>
     <message>
         <source>Show &amp;levels:</source>
@@ -1988,11 +1988,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Show page numbers</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaż numery &amp;stron</translation>
     </message>
     <message>
         <source>&amp;Right align page numbers</source>
-        <translation type="unfinished"></translation>
+        <translation>Numery stron wyrównane do prawej</translation>
     </message>
     <message>
         <source>Use &amp;hyperlinks</source>
@@ -2000,7 +2000,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Options...</source>
-        <translation type="unfinished"></translation>
+        <translation>Opcje...</translation>
     </message>
     <message>
         <source>Print Preview</source>
@@ -2019,11 +2019,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Styles:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Style:</translation>
     </message>
     <message>
         <source>Available styles:</source>
-        <translation type="unfinished"></translation>
+        <translation>Dostępne style:</translation>
     </message>
     <message>
         <source>ToC &amp;level:</source>
@@ -2065,7 +2065,7 @@ use buttons to apply borders</source>
     <name>KxDlgConvertTabletoText</name>
     <message>
         <source>Convert Table to Text </source>
-        <translation type="unfinished"></translation>
+        <translation>Przekonwertuj tabelę na tekst </translation>
     </message>
     <message>
         <source>Separate text with</source>
@@ -2085,7 +2085,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Other:</source>
-        <translation type="unfinished"></translation>
+        <translation>Inne:</translation>
     </message>
     <message>
         <source>-</source>
@@ -2100,7 +2100,7 @@ use buttons to apply borders</source>
     <name>KxDlgConvertTexttoTable</name>
     <message>
         <source>Convert Text to Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Konwertuj tekst na tabelę</translation>
     </message>
     <message>
         <source>rd5</source>
@@ -2199,7 +2199,7 @@ use buttons to apply borders</source>
     <name>KxDlgCrossReference</name>
     <message>
         <source>Cross-reference</source>
-        <translation type="unfinished"></translation>
+        <translation>Odsyłacz</translation>
     </message>
     <message>
         <source>Reference &amp;type:</source>
@@ -2246,39 +2246,39 @@ use buttons to apply borders</source>
     <name>KxDlgCustomDictionary</name>
     <message>
         <source>Custom Dictionary</source>
-        <translation type="unfinished"></translation>
+        <translation>Słownik niestandardowy</translation>
     </message>
     <message>
         <source>Dictionary &amp;list</source>
-        <translation type="unfinished"></translation>
+        <translation>Lista słowników</translation>
     </message>
     <message>
         <source>&amp;Modify...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Modyfikuj...</translation>
     </message>
     <message>
         <source>Set &amp;default</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustaw jako domyślny</translation>
     </message>
     <message>
         <source>&amp;New...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Nowy...</translation>
     </message>
     <message>
         <source>&amp;Add...</source>
-        <translation type="unfinished"></translation>
+        <translation>Dod&amp;aj...</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Usuń</translation>
     </message>
     <message>
         <source>path</source>
-        <translation type="unfinished"></translation>
+        <translation>ścieżka</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Zamknij</translation>
+        <translation>Zamknij</translation>
     </message>
 </context>
 <context>
@@ -2293,7 +2293,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Font...</source>
-        <translation type="unfinished"></translation>
+        <translation>Czcionka...</translation>
     </message>
     <message>
         <source>&amp;Character...</source>
@@ -2301,7 +2301,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Podgląd</translation>
     </message>
     <message>
         <source>Bullet position</source>
@@ -2356,7 +2356,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Font...</source>
-        <translation type="unfinished"></translation>
+        <translation>Czcionka...</translation>
     </message>
     <message>
         <source>&amp;Number style</source>
@@ -2364,11 +2364,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Start at:</source>
-        <translation type="unfinished"></translation>
+        <translation>Rozpocznij od:</translation>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Podgląd</translation>
     </message>
     <message>
         <source>N&amp;umber position</source>
@@ -2400,7 +2400,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Text position</source>
-        <translation type="unfinished"></translation>
+        <translation>Położenie tekstu</translation>
     </message>
     <message>
         <source>Ta&amp;b space after:</source>
@@ -2545,7 +2545,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Font:</source>
-        <translation type="unfinished">&amp;Czcionka:</translation>
+        <translation>Czcionka:</translation>
     </message>
     <message>
         <source>&amp;Lines to drop:</source>
