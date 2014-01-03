@@ -789,7 +789,7 @@
     <name>KxAddUsersDlg</name>
     <message>
         <source>Some of the users you have entered could not be added to the list because their names could not be verified.</source>
-        <translation type="unfinished"></translation>
+        <translation>Niektórzy z użytkowników, których podałeś nie można dodać do listy bo ich nazwy nie mogły zostać zweryfikowane</translation>
     </message>
 </context>
 <context>
@@ -807,7 +807,7 @@
     <name>KxBordersAndShadingDlg</name>
     <message>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekst</translation>
     </message>
     <message>
         <source>Paragraph</source>
@@ -815,7 +815,7 @@
     </message>
     <message>
         <source>Cell</source>
-        <translation type="unfinished"></translation>
+        <translation>Komórka</translation>
     </message>
     <message>
         <source>Pt</source>
@@ -827,22 +827,22 @@
     </message>
     <message>
         <source>Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabela</translation>
     </message>
     <message>
         <source>No content</source>
-        <translation type="unfinished"></translation>
+        <translation>Brak treści</translation>
     </message>
 </context>
 <context>
     <name>KxCaptionDlg</name>
     <message>
         <source>Above selected item</source>
-        <translation type="unfinished"></translation>
+        <translation>Powyżej zaznaczonego elementu</translation>
     </message>
     <message>
         <source>Below selected item</source>
-        <translation type="unfinished"></translation>
+        <translation>Poniżej zaznaczonego elementu</translation>
     </message>
     <message>
         <source>Close</source>
@@ -873,14 +873,14 @@
     </message>
     <message>
         <source>Headings</source>
-        <translation type="unfinished"></translation>
+        <translation>Nagłówki</translation>
     </message>
 </context>
 <context>
     <name>KxCheckSpellingDlg</name>
     <message>
         <source>No Spelling Suggestions</source>
-        <translation type="unfinished"></translation>
+        <translation>Brak sugestii poprawy pisowni</translation>
     </message>
     <message>
         <source>No default custom dictionary is found. Please select a custom dictionary in the list and proceed again.</source>
@@ -888,7 +888,7 @@
     </message>
     <message>
         <source>Error occurs when adding new words.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wystąpił błąd podczas dodawania nowych słów.</translation>
     </message>
     <message>
         <source>Always suggest corrections(&amp;L)</source>
@@ -904,7 +904,7 @@
     </message>
     <message>
         <source>Check spelling is complete.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sprawdzanie pisowni zakończone</translation>
     </message>
     <message>
         <source>Spelling check of selected text is complete. Continue to check the rest part of the document?</source>
@@ -919,11 +919,11 @@
     <name>KxCheckboxFormFieldDlg</name>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Brak</translation>
     </message>
     <message>
         <source>The input value must be between %1 and %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wprowadzana wartość musi być między %1 i %2.</translation>
     </message>
     <message>
         <source>The bookmark name is not valid.</source>
@@ -972,11 +972,11 @@
     <name>KxContentsDlg</name>
     <message>
         <source>Do you want to replace the title?</source>
-        <translation type="unfinished"></translation>
+        <translation>Czy chcesz zastąpić tytuł?</translation>
     </message>
     <message>
         <source>Input must be between %1 and %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dane wejściowe muszą być pomiędzy %1 a %2.</translation>
     </message>
     <message>
         <source>Title</source>
@@ -991,7 +991,7 @@
     </message>
     <message>
         <source>Input must be between %1 and %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dane wejściowe muszą być pomiędzy %1 a %2.</translation>
     </message>
 </context>
 <context>
@@ -1005,11 +1005,11 @@
     <name>KxCoverSectionGalleryCommand</name>
     <message>
         <source>Delete Cover Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Usuń stronę tytułową</translation>
     </message>
     <message>
         <source>Cover Pages</source>
-        <translation type="unfinished"></translation>
+        <translation>Strony tytułowe</translation>
     </message>
     <message>
         <source>Orientation setting doesn&apos;t work for some reason, such as too little column width. Please adjust your settings.</source>
@@ -1020,7 +1020,7 @@
     <name>KxCrossReferenceDlg</name>
     <message>
         <source>&amp;Insert</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Wstaw</translation>
     </message>
     <message>
         <source>Page number</source>
@@ -1028,19 +1028,19 @@
     </message>
     <message>
         <source>Paragraph number</source>
-        <translation>numer paragrafu</translation>
+        <translation>Numer akapitu</translation>
     </message>
     <message>
         <source>Paragraph number (No context)</source>
-        <translation type="unfinished"></translation>
+        <translation>Numer akapitu (bez kontekstu)</translation>
     </message>
     <message>
         <source>Paragraph number (Full context)</source>
-        <translation type="unfinished"></translation>
+        <translation>Numer akapitu (pełen kontekst)</translation>
     </message>
     <message>
         <source>Paragraph text</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekst akapitu</translation>
     </message>
     <message>
         <source>See above/below</source>
@@ -1139,7 +1139,7 @@
     <name>KxCustomBackgroundColorDlgClass</name>
     <message>
         <source>Custom background color and text color(design)</source>
-        <translation type="unfinished"></translation>
+        <translation>Niestandardowy kolor tła i kolor tekstu (projekt)</translation>
     </message>
     <message>
         <source>&amp;Schemes</source>
@@ -1179,19 +1179,19 @@
     </message>
     <message>
         <source>&amp;Background color:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolor tła:</translation>
     </message>
     <message>
         <source>&amp;Text color:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolor &amp;tekstu</translation>
     </message>
     <message>
         <source>&amp;Default</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Domyślny</translation>
     </message>
     <message>
         <source>Set the background color to white and the text color to black as default.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustaw biały kolor tła i czarny kolor tekstu jako domyślne.</translation>
     </message>
 </context>
 <context>
@@ -1202,7 +1202,7 @@
     </message>
     <message>
         <source>(Default)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Domyślne)</translation>
     </message>
     <message>
         <source>New dictionary file</source>
@@ -1210,19 +1210,19 @@
     </message>
     <message>
         <source>dictionary file(*.dic)|*.dic</source>
-        <translation type="unfinished"></translation>
+        <translation>plik słownika(*.dic)|*.dic</translation>
     </message>
     <message>
         <source>Add dictionary file</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj plik słownika</translation>
     </message>
     <message>
         <source>All files(*.*)|*.*|dictionary file(*.dic)|*.dic</source>
-        <translation type="unfinished"></translation>
+        <translation>Wszystkie pliki(*.*)|*.*|plik słownika(*.dic)|*.dic</translation>
     </message>
     <message>
         <source>Remove this custom dictionary might affect other programs of Kingsoft office, continue or not?</source>
-        <translation type="unfinished"></translation>
+        <translation>Usunięcie tego niestandardowego słownika może mieć wpływ na inne programy Kingsoft office, kontynuować, czy nie?</translation>
     </message>
 </context>
 <context>
@@ -1240,7 +1240,7 @@
     <name>KxCustomizeNumberedListDlg</name>
     <message>
         <source>(None)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Brak)</translation>
     </message>
     <message>
         <source>&amp;Less</source>
@@ -1255,15 +1255,15 @@
     <name>KxDlgAddUsers</name>
     <message>
         <source>Add Users</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj użytkowników</translation>
     </message>
     <message>
         <source>Enter user names,separated by semicolons:</source>
-        <translation type="unfinished"></translation>
+        <translation>Wprowadź nazwy użytkowników oddzielone średnikami:</translation>
     </message>
     <message>
         <source>Example:user1;DOMAIN\name;someone@example.com</source>
-        <translation type="unfinished"></translation>
+        <translation>Przykład:user1;DOMENA\nazwa;someone@example.com</translation>
     </message>
 </context>
 <context>
@@ -1274,23 +1274,23 @@
     </message>
     <message>
         <source>&amp;Bookmark name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nazwa zakładki:</translation>
     </message>
     <message>
         <source>Sort by:</source>
-        <translation>Sortuj po:</translation>
+        <translation>Sortuj wg.:</translation>
     </message>
     <message>
         <source>&amp;Name</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Nazwy</translation>
     </message>
     <message>
         <source>&amp;Location</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Lokalizacji</translation>
     </message>
     <message>
         <source>&amp;Hidden bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>Ukryte zakładki</translation>
     </message>
     <message>
         <source>&amp;Add</source>
@@ -1313,15 +1313,15 @@
     <name>KxDlgBordersAndShading</name>
     <message>
         <source>Borders and Shading</source>
-        <translation type="unfinished"></translation>
+        <translation>Obramowanie i cieniowanie</translation>
     </message>
     <message>
         <source>B&amp;orders</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Obramowania</translation>
     </message>
     <message>
         <source>Setting:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustawienia:</translation>
     </message>
     <message>
         <source>&amp;None</source>
@@ -1371,7 +1371,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Options...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Opcje...</translation>
     </message>
     <message>
         <source>&amp;Page Border</source>
@@ -1395,24 +1395,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Shading</source>
-        <translation type="unfinished"></translation>
+        <translation>Cieniowanie</translation>
     </message>
     <message>
         <source>Fill</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>M&amp;ore Colors...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Patterns</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>St&amp;yle:</source>
-        <comment>shading</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wypełnienie</translation>
     </message>
     <message>
         <source>Clear</source>
