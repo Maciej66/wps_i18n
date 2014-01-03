@@ -67,18 +67,18 @@
     </message>
     <message>
         <source>&amp;Continue</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontynuuj</translation>
     </message>
     <message>
         <source>&amp;Stop</source>
-        <translation type="unfinished"></translation>
+        <translation>Zatrzymaj</translation>
     </message>
 </context>
 <context>
     <name>ExitEditOpenFile</name>
     <message>
         <source>If you open a new file,the contents in the cell of this file will be eliminated:</source>
-        <translation type="unfinished"></translation>
+        <translation>Po otwarciu nowego pliku, zawartość w komórce tego pliku zostanie wyeliminowana:</translation>
     </message>
     <message>
         <source>Text Label</source>
